@@ -1,0 +1,20 @@
+﻿Hourly_cosumption_test.xls data file:
+
+ It is the real hourly consumption of a building during the last years (2016, 2017, 2018)
+
+ 
+Columns: Date, Hour, MainLoad (consumption)
+
+
+Your 3 tasks:
+
+
+Give a weekly consumption  time series of the building during the same period. 
+Extract the maximum  and the minimum consumption and the dates.
+
+Compare the consumption of years (2016,2017,2018), ¿Which year has the higher consumption?
+
+Make a simple forecast of the Time Series. 
+
+Please, explain your code and your approach on a PDF explanation file.
+
